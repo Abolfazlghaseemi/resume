@@ -3,4 +3,6 @@
 This project is a personal resume introduction application made with Flutter.
 
 ## photo
-src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966" width="350"/>
+![Screenshot 2023-12-18 132144](https://github.com/Abolfazlghaseemi/resume/assets/85543976/850c82b9-18b9-426c-b557-fba4577957e2)
+![Screenshot 2023-12-18 132201](https://github.com/Abolfazlghaseemi/resume/assets/85543976/4585ab29-53b2-40ab-88b3-e26adb2f4374)
+![Screenshot_1702892994](https://github.com/Abolfazlghaseemi/resume/assets/85543976/e397b3bb-d9bd-4326-ab7e-552352724a5b)
