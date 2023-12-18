@@ -1,16 +1,6 @@
-# flutter_application_2
+# Resume application
 
-A new Flutter project.
+This project is a personal resume introduction application made with Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## photo
+https://www.uplooder.net/img/image/90/ff81b5b8a746989517a4cfd5efabd0f6/Screenshot-2023-12-18-132128.png
